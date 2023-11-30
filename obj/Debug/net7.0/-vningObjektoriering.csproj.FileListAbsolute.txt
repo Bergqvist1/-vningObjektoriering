@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\bin\Debug\net7.0\-vningObjektoriering.exe
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\bin\Debug\net7.0\-vningObjektoriering.deps.json
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\bin\Debug\net7.0\-vningObjektoriering.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\bin\Debug\net7.0\-vningObjektoriering.dll
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\bin\Debug\net7.0\-vningObjektoriering.pdb
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.dll
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\refint\-vningObjektoriering.dll
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.pdb
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\-vningObjektoriering.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\-vningObjektoriering\obj\Debug\net7.0\ref\-vningObjektoriering.dll

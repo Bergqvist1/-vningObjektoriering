@@ -9,11 +9,24 @@ namespace _vningObjektoriering
     {
         private int RageLevel;
 
-        public Barbarian(int RageLevel, int hp, string Name)
+        public Barbarian(int ragelevel, int HP, string Name)
         {
-            this.RageLevel = RageLevel;
-            this.hp = hp;
+            this.RageLevel = ragelevel;
+            this.hp = HP;
             this.name = Name;
+        }
+
+        public override void Print()
+        {
+            Console.WriteLine(this.name);
+            Console.WriteLine(this.hp);
+            Console.WriteLine(this.RageLevel);
+        }
+
+        public override void TakeDamage(int damage)
+        {
+            this.hp -= damage;
+            this.RageLevel += damage;
         }
     }
 }

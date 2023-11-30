@@ -9,11 +9,24 @@ namespace _vningObjektoriering
     {
         private int HolyPower;
 
-        public Paladin(string Name, int hp, int HolyPower)
+        public Paladin(string Name, int HP, int holypower)
         {
-            this.HolyPower = HolyPower;
-            this.hp = hp;
+            this.HolyPower = holypower;
+            this.hp = HP;
             this.name = Name;
+        }
+
+        public override void Print()
+        {
+            Console.WriteLine(this.name);
+            Console.WriteLine(this.hp);
+            Console.WriteLine(this.HolyPower);
+        }
+
+        public override void TakeDamage(int damage)
+        {
+            this.HolyPower -= damage;
+            this.hp -= damage*2;
         }
     }
 }
